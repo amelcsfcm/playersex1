@@ -1,0 +1,21 @@
+.App
+{display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.App img{
+    width: 260px;
+    height: 300px;
+}
+.App div{
+    margin: 30px;
+   background-color: #DCE0E1;
+    box-shadow: 0 50px 50px #757676;
+}
+span{
+text-decoration: underline;
+margin-right: 7px;
+margin-left: 7px;
+color: rgb(61, 41, 104);
+}
